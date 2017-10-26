@@ -1,0 +1,10 @@
+Package: com.lv.iAlg
+Name: iAlg
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: apple algorithm agent
+Maintainer: doublewindy
+Author: doublewindy
+Section: System
+Tag: role::hacker
